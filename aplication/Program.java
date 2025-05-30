@@ -26,9 +26,5 @@ public class Program {
             System.out.println("Failed");
             System.out.printf("Mission %.2f points%n", student.missingPoint());
         }
-
-
-    }
-
-    
+    }   
 }

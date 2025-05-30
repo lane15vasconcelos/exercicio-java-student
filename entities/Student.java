@@ -18,5 +18,4 @@ public class Student {
             return 60 - finalClass();
         }
     }
-
 }
